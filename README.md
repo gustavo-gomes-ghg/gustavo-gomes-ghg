@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://patadadeurso.com.br/images/photo.png" width="130px">
+  <!--<img src="https://patadadeurso.com.br/images/photo.png" width="130px">-->
   <h1>Gustavo Hattenhauer Gomes</h1>
 </div>
 
@@ -7,7 +7,6 @@
   Florianópolis/Brazil
 </p>
 
-# UNDER CONSTRUCTION
 
 ## Summary
 Software Developer and Oceanographer. Currently I work as technology and systems manager, leading a team of 17 people and developing systems to hydrological and meteorological applications. 
