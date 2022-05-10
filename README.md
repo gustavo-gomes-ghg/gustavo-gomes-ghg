@@ -46,11 +46,11 @@ I don't have attention deficit, I know how to work in a team, I try to understan
 - Negatives: I try to quickly solve a problem and being quick may not be the best solution, impatient, difficulty not showing displeasure.
 
 ## Education
-- _Cybersecurity and Ethical Hacking Postgraduate, UNICIV_ -> Mar 2021 - Feb 2022, Remote
+- _Cybersecurity and Ethical Hacking (Graduate course), UNICIV_ -> Mar 2021 - Feb 2022, Remote
 #####
-- _Software Engineering Postgraduate, UNYLEYA_ -> Jul 2020 - Jun 2021, Remote
+- _Software Engineering (Graduate course), UNYLEYA_ -> Jul 2020 - Jun 2021, Remote
 #####
-- _Oceanographer Graduate, UNIVALI_ -> Jan 2005 - Jun 2010, Itajaí- Santa Catarina - (Graduated with High Honors)
+- _Oceanography (Undergraduate course), UNIVALI_ -> Jan 2005 - Jun 2010, Itajaí- Santa Catarina - Brazil
 
 #
 
