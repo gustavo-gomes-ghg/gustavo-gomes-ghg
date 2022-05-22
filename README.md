@@ -28,7 +28,7 @@ I pass my last seven years working on a hydrological complex project with four c
 I'm currently looking for a Data Engineer or Web Developer position, where I think I'll have my best performance.
 
 ## English Level
-Currently, I am studying on Open English school. It has a course with 8 English levels. Actually I passed level 4, and I'm studying level 5 to get B1 certificate.
+Currently, I am studying on Open English school. It has a course with 8 English levels. Currently I passed level 4, and I'm studying level 5 to get B1 certificate.
 
 2022-May: CEFR A2
 
@@ -40,6 +40,8 @@ Currently, I am studying on Open English school. It has a course with 8 English 
 - Matlab
 - SQL
 - Docker
+
+2022-May: Approved on Technical test's on Turing platform:
 - AWS
 - AWS Lambda
 - Django
