@@ -90,6 +90,16 @@ _(On-site) -> 2010-2011_
 #
 ## Achievements
 
+
+### Patada de Urso API using NodeJS and Sequelize
+_GHG Tecnologia -> May-2022 - Present_
+
+###
+##### _Project Overview_
+Under construction ...
+
+##### _Learning Outcomes_
+
 ### DBA maintenance in huge database
 _Fractal Engenharia -> April-2022 - Present_
 
