@@ -99,7 +99,7 @@ Under construction ...
 
 ##### _Learning Outcomes_
 
-### Cybersecurity motivation - Web system migration to AWS Cloud
+### Web system migration to AWS Cloud - Cybersecurity motivation
 _Fractal Engenharia -> Sep-2021 - Mar-2022_
 
 Project: [SIG²A](https://siga.fractaleng.com.br)
