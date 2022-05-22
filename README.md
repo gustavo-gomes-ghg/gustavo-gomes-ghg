@@ -42,6 +42,7 @@ Currently, I am studying on Open English school. It has a course with 8 English 
 - Docker
 - AWS
 - AWS Lambda
+- Django
 
 ## Soft skills
 I don't have attention deficit, I know how to work in a team, I try to understand the problem I'm trying to solve, easy to learn new tools and new programming languages, fast learning curve, quick thinking, while in a meeting I quickly design the workflow and process being discussed (this makes it much easier for other team members to understand), ease of having an idea to solve a problem, I don't waste my time and other colleagues' time talking more than necessary, if I don't have anything to say I don't interrupt conversations, sincerity(if I don't know how to do something I say I don't know).
