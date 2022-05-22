@@ -11,7 +11,6 @@
 - 🔭 I’m currently working on a system to compute water reservoir hydraulic balance
 - 🌱 I’m currently learning English
 - 👯 I’m looking to collaborate on data engineering project
-- 🤔 I’m looking for help with problems on earth science
 - 💬 Ask me about ocean waves, hydroeletric power plant reservoir control, or a new remote job
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gustavo-hattenhauer-gomes-62b4b155/)
 - ⚡ Fun fact: I love car race (F1, Nascar, any car race that is on TV ...)
