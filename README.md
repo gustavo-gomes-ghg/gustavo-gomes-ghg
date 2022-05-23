@@ -96,22 +96,22 @@ _GHG Tecnologia -> May-2022 - Present_
 
 ###
 ##### _Project Overview_
-Porting PHP classic API to NodeJS application using Sequelize ORM library. The API project includes CRUD features for +20 endpoints, integrated with Python scripts to send emails and for create images to post on Instagram.
+Porting PHP classic API to NodeJS application using Sequelize ORM library. The API project includes CRUD features for +20 endpoints, integrated with Python scripts to send emails and for creatING images to post on Instagram.
 
 ##### _Learning Outcomes_
-From this project I'm learning main features of NodeJS and Sequelize ORM.
+From this project I'm learning the main features of NodeJS and Sequelize ORM.
 
 ### DBA maintenance in huge database
 _Fractal Engenharia -> April-2022 - Present_
 
 ###
 ##### _Project Overview_
-Database with 700GB size running out disk size space. To solve this problem, main database was segregated in different databases, located in different servers, based on data time stamp (hot, buffer, cold). The 'buffer' database was used to storage data during 3 months. After that period data is transfered to 'cold' database and tables are cleaned. In 'hot' database are stored recent and highly queried data. Every day a routine is executed to transfer data older than Today-60 days to 'buffer' database, and removing this data from 'hot' database.
+Database with 700GB size running out disk size space. To solve this problem, the main database was segregated in different databases, located in different servers, based on data time stamps (hot, buffer, cold). The 'buffer' database was used to store data for 3 months. After that period data is transferred to the 'cold' database and tables are cleaned. In 'hot' database are stored recent and highly queried data. Every day a routine is executed to transfer data older than Today-60 days to the 'buffer' database, and remove this data from 'hot' database.
 
-Adaptations were necessary on application to query data from different databases and works properly again.
+Adaptations were necessary on application to query data from different databases and work properly again.
 
 ##### _Learning Outcomes_
-From this project I'm improving my skill's with PostgreSQL maintenance tools like vacuum and analyze, how transfer data between databases performatically, how to execute maintenance processes in production without turn off the application, with less impact on database performance.
+From this project I'm improving my skills with PostgreSQL maintenance tools like vacuum and analyze, how to transfer data between databases performatically, how to execute maintenance processes in production without turning off the application, with less impact on database performance.
 
 ###
 ### Web system migration to AWS Cloud - Cybersecurity motivation
