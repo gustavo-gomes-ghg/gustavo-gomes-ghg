@@ -380,7 +380,9 @@ Creation of the “Extreme Wave Data Analysis” tool for processing and analyzi
 #
 ### XBEACH GUI
 _Chigago Bridge & Iron -> Jul 2013 - Dec 2013_
-![Project Link](https://github.com/gustavo-gomes-ghg/xbeach_gui)
+
+[Project Link](https://github.com/gustavo-gomes-ghg/xbeach_gui)
+
 ###
 ##### _Project Overview_
 Creation of the “Xbeach GUI” graphical interface of the Xbeach Model (eXtreme Beach Behavior – Delft, Netherlands) to configure the input parameters of the numerical model. It was a graphical interface developed in Matlab during a project at CBI where we used the XBEACH model to simulate extreme event ripples. The motivation was created by the difficulty in understanding and configuring the model. From this, I created a GUI similar to the Delft3D GUI, where it is possible to modify the setup parameters and save the setup file according to the user's choices, besides being able to load a setup and the interface is updated. In addition, a module for viewing the grid and bathymetry of the model in plan was created, and a tool for calculating the shape of the beach in plan according to the parabolic model of Hsu.
