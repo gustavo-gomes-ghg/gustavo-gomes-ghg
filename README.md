@@ -387,6 +387,26 @@ Creation of the “Xbeach GUI” graphical interface of the Xbeach Model (eXtrem
 
 ##### _Learning outcomes_
 
+##
+GUI for model setup
+![](https://github.com/gustavo-gomes-ghg/xbeach_gui/raw/master/assets/gif/main_gui.gif)
+
+##
+GUI - Visualization Area 1
+![](https://github.com/gustavo-gomes-ghg/xbeach_gui/raw/master/assets/gif/view_analysis_1.gif)
+
+##
+GUI - Visualization Area 2 - Static Equilibrium Shoreline Analysis
+![](https://github.com/gustavo-gomes-ghg/xbeach_gui/raw/master/assets/gif/view_analysis_2.gif)
+
+##
+GUI - Visualization Area 3 - Topography profile analysis
+![](https://github.com/gustavo-gomes-ghg/xbeach_gui/raw/master/assets/gif/profile_analysis.gif)
+
+##
+GUI - Visualization Area 4 - Land Boundary
+![](https://github.com/gustavo-gomes-ghg/xbeach_gui/raw/master/assets/gif/land_boundary.gif)
+
 #
 ### Real-time AWAC
 _Chigago Bridge & Iron -> Jun 2013 - Ago 2013_
