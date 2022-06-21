@@ -22,9 +22,9 @@ I have 11 years of experience as computer developer. I have experience with web 
 
 Good communication, teamwork, problem solving instinct, proactive and determined. My biggest motivation is to encounter complex challenges. Those in which it is necessary to understand the process and know the variables to solve the problem. Nothing is impossible, because for everything there is a way to do it. 
 
-I pass my last seven years working on a hydrological complex project with four core parts: rain data assimilation, numerical modelling, data delivery, and web tools to interpretate and analyse model results. See my work experiences to best understand this project. 
+I pass my last seven years working on a hydrological complex project with four core parts: rain data assimilation, numerical modelling, data delivery, and web tools to interpretate and analyse model results. See my work experiences listed below to best understand this project. 
 
-I'm currently looking for a Data Engineer or Web Developer position, where I think I'll have my best performance.
+I'm currently looking for a Data Engineer or Backend position, where I think I'll have my best performance.
 
 ## English Level
 Currently, I am studying on Open English school. It has a course with 8 English levels. Currently I passed level 5, and I'm studying level 6 to get B2 certificate.
