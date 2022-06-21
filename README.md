@@ -106,7 +106,7 @@ The data pipeline is separated in a) data ingestion layer using Twitter Stream A
 
   - a) Data ingestion layer uses NodeJS as backend and KafkaJS library as external client to act as Kafka Producer and Consumer for tweets. Kafka set up with Docker image
   - b) Speed layer uses Apache Spark Python API to compute analytics and Kafka Python external client to act as analytical Producer
-  - c) Visualization layer uses ReactJS to display tweets and analytics from each different topic in distinct pages.
+  - c) Visualization layer uses ReactJS to display tweets and analytics from each different topic in distinct pages. New messages and analytics are received using socket connection from backend.
 ![](https://github.com/gustavo-gomes-ghg/gustavo-career-history/blob/master/public/images/data_engineering/twitter_stream/twitter_stream_new.png)
 
 ##### _Learning Outcomes_
