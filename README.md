@@ -101,11 +101,10 @@ _GHG Tecnologia -> May-2022 - Present_
 A personal project to learn how to use Apache Kafka main features, Apache Spark to process stream data, NodeJS as backend to Kafka Producers and Consumers, and Twitter Stream API rules to get specific tweets using stream data.
 
 This project outlines 4 main interest areas (Outer Space/Universe, Car racing, Games news and Data Engineering news), and 3 different repositories.
-The data pipeline is separated in a) data ingestion layer using Twitter Stream API, b) Message Broker layer with Apache Kafka, c) a Speed Layer for compute analytics from stream messages, and d) a Visualization layer to display messages and analytics.
-a) Data ingestion layer uses NodeJS as backend and KafkaJS library as external client to act as Kafka Producer and Consumer for tweets.
-b) Message broker layer was set up with Docker image
-c) Speed layer uses Apache Spark Python API to compute analytics and Kafka Python external client to act as analytical Producer
-d) Visualization layer uses ReactJS to display tweets and analytics from each different topic in distinct pages.
+The data pipeline is separated in a) data ingestion layer using Twitter Stream API, saving data on Apache Kafka, b) a Speed Layer for compute analytics from stream messages, and c) a Visualization layer to display messages and analytics.
+a) Data ingestion layer uses NodeJS as backend and KafkaJS library as external client to act as Kafka Producer and Consumer for tweets. Kafka set up with Docker image
+b) Speed layer uses Apache Spark Python API to compute analytics and Kafka Python external client to act as analytical Producer
+c) Visualization layer uses ReactJS to display tweets and analytics from each different topic in distinct pages.
 ![](https://github.com/gustavo-gomes-ghg/gustavo-career-history/blob/master/public/images/data_engineering/twitter_stream/twitter_stream_new.png)
 
 ##### _Learning Outcomes_
