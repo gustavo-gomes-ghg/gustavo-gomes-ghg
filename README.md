@@ -32,7 +32,7 @@ Currently, I am studying on Open English school. It has a course with 8 English 
 - 2022-May: CEFR A2
 - 2022-Jun: CEFR B1
 
-## Recent Technical Avaliation
+## Recent Technical Evaluation
 
 2022-Apr: Approved on Technical test's on Turing platform:
 - Javascript
