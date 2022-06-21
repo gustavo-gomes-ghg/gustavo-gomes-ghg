@@ -126,6 +126,7 @@ _Fractal Engenharia -> Jun-2022 - Present_
 ###
 ##### _Project Overview_
 Weather forecast scientific grib2 data file download, rainfall precipitation data extraction, data transformation to compute analytics for matrix and for coordinate points, creation of gif animation, and geoserver upload of matrix data, json and raster images. All the data pipeline is set up on Apache Airflow DAG, using distinct tasks for Python codes, and utilizing Airflow properties to minimize issues during the data pipeline.
+![](https://github.com/gustavo-gomes-ghg/gustavo-career-history/blob/master/public/images/data_engineering/geoserver/geoserver_dag.png)
 
 ### DBA maintenance in huge database
 _Fractal Engenharia -> April-2022 - Present_
@@ -135,6 +136,8 @@ _Fractal Engenharia -> April-2022 - Present_
 Database with 700GB size running out disk size space. To solve this problem, the main database was segregated in different databases, located in different servers, based on data time stamps (hot, buffer, cold). The 'buffer' database was used to store data for 3 months. After that period data is transferred to the 'cold' database and tables are cleaned. In 'hot' database are stored recent and highly queried data. Every day a routine is executed to transfer data older than Today-60 days to the 'buffer' database, and remove this data from 'hot' database. All this process was set up on Apache Airflow DAG, with distinct tasks to better track issues and give the retry option. Failed task activity is communicated to DBA using TelegramOperator.
 
 Adaptations were necessary on application to query data from different databases and work properly again.
+![](https://github.com/gustavo-gomes-ghg/gustavo-career-history/blob/master/public/images/data_engineering/dba_maintenance/dba_hotbuffer.png)
+![](https://github.com/gustavo-gomes-ghg/gustavo-career-history/blob/master/public/images/data_engineering/dba_maintenance/dba_buffer_cold.png)
 
 ##### _Learning Outcomes_
 From this project I'm improving my skills with PostgreSQL maintenance tools like vacuum and analyze, how to transfer data between databases performatically, how to execute maintenance processes in production without turning off the application, with less impact on database performance.
