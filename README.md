@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I love car race (F1, Nascar, any car race that is on TV ...)
 
 ## Summary
-Software Developer and Oceanographer. Currently I work as technology and systems manager, leading a team of 17 people and developing systems to hydrological and meteorological applications. 
+Data Engineer, Software Developer and Oceanographer. Currently I work as technology and systems manager, leading a team of 17 people and developing systems to hydrological and meteorological applications. 
 
 I have 11 years of experience as computer developer. I have experience with web programming, mobile development, Linux administration, relational databases, data analysis, statistics, time series manipulation, matrix and specialized data manipulation, and geoprocessing.
 
@@ -67,6 +67,10 @@ I don't have attention deficit, I know how to work in a team, I try to understan
 _Fractal Engenharia, Florianópolis/SC/Brazil_
 _(On-site/Remote) -> Jun-2019 - Present_
 
+#### Data Engineer
+_Fractal Engenharia, Florianópolis/SC/Brazil_
+_(On-site/Remote) -> Apr-2015 - Present_
+
 #### Web Developer
 _Fractal Engenharia, Florianópolis/SC/Brazil_
 _(On-site/Remote) -> Apr-2017 - Present_
@@ -88,7 +92,23 @@ _Universidade do Vale do Itajaí, Itajaí/SC/Brazil_
 _(On-site) -> 2010-2011_
 
 #
-## Achievements
+## Projects
+
+### GHG Twitter Stream Messaging Tracker - Apache Kafka, Apache Spark, NodeJS
+_GHG Tecnologia -> May-2022 - Present_
+###
+##### _Project Overview_
+A personal project to learn how to use Apache Kafka main features, Apache Spark to process stream data, NodeJS as backend to Kafka Producers and Consumers, and Twitter Stream API rules to get specific tweets using stream data.
+
+This project outlines 4 main interest areas (Outer Space/Universe, Car racing, Games news and Data Engineering news), and 3 different repositories.
+The data pipeline is separated in a) data ingestion layer using Twitter Stream API, b) Message Broker layer with Apache Kafka, c) a Speed Layer for compute analytics from stream messages, and d) a Visualization layer to display messages and analytics.
+a) Data ingestion layer uses NodeJS as backend and KafkaJS library as external client to act as Kafka Producer and Consumer for tweets.
+b) Message broker layer was set up with Docker image
+c) Speed layer uses Apache Spark Python API to compute analytics and Kafka Python external client to act as analytical Producer
+d) Visualization layer uses ReactJS to display tweets and analytics from each different topic in distinct pages.
+
+##### _Learning Outcomes_
+From this project I'm learning the main features of Apache Kafka, Apache Spark and Twitter API.
 
 
 ### Patada de Urso API using NodeJS and Sequelize
@@ -101,12 +121,18 @@ Porting PHP classic API to NodeJS application using Sequelize ORM library. The A
 ##### _Learning Outcomes_
 From this project I'm learning the main features of NodeJS and Sequelize ORM.
 
+### ETL Project - Weather forecast data ingestion to GeoServer
+_Fractal Engenharia -> Jun-2022 - Present_
+###
+##### _Project Overview_
+Weather forecast scientific grib2 data file download, rainfall precipitation data extraction, data transformation to compute analytics for matrix and for coordinate points, creation of gif animation, and geoserver upload of matrix data, json and raster images. All the data pipeline is set up on Apache Airflow DAG, using distinct tasks for Python codes, and utilizing Airflow properties to minimize issues during the data pipeline.
+
 ### DBA maintenance in huge database
 _Fractal Engenharia -> April-2022 - Present_
 
 ###
 ##### _Project Overview_
-Database with 700GB size running out disk size space. To solve this problem, the main database was segregated in different databases, located in different servers, based on data time stamps (hot, buffer, cold). The 'buffer' database was used to store data for 3 months. After that period data is transferred to the 'cold' database and tables are cleaned. In 'hot' database are stored recent and highly queried data. Every day a routine is executed to transfer data older than Today-60 days to the 'buffer' database, and remove this data from 'hot' database.
+Database with 700GB size running out disk size space. To solve this problem, the main database was segregated in different databases, located in different servers, based on data time stamps (hot, buffer, cold). The 'buffer' database was used to store data for 3 months. After that period data is transferred to the 'cold' database and tables are cleaned. In 'hot' database are stored recent and highly queried data. Every day a routine is executed to transfer data older than Today-60 days to the 'buffer' database, and remove this data from 'hot' database. All this process was set up on Apache Airflow DAG, with distinct tasks to better track issues and give the retry option. Failed task activity is communicated to DBA using TelegramOperator.
 
 Adaptations were necessary on application to query data from different databases and work properly again.
 
