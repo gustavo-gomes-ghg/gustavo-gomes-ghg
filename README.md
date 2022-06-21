@@ -106,6 +106,7 @@ a) Data ingestion layer uses NodeJS as backend and KafkaJS library as external c
 b) Message broker layer was set up with Docker image
 c) Speed layer uses Apache Spark Python API to compute analytics and Kafka Python external client to act as analytical Producer
 d) Visualization layer uses ReactJS to display tweets and analytics from each different topic in distinct pages.
+![](https://github.com/gustavo-gomes-ghg/gustavo-career-history/blob/master/public/images/data_engineering/twitter_stream/twitter_stream.png)
 
 ##### _Learning Outcomes_
 From this project I'm learning the main features of Apache Kafka, Apache Spark and Twitter API.
