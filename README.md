@@ -30,7 +30,7 @@ I'm currently looking for a Data Engineer or Backend position, where I think I'l
 Currently, I am studying on Open English school. It has a course with 8 English levels. Currently I passed level 5, and I'm studying level 6 to get B2 certificate.
 
 - 2022-May: CEFR A2
-- 2022-Jun: CEFR B1
+- 2022-Sep: CEFR B1
 
 ## Recent Technical Evaluation
 
