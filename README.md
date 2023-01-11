@@ -64,21 +64,25 @@ I don't have attention deficit, I know how to work in a team, I try to understan
 
 ## Work History
 
-#### Technology Manager
+#### Python Software Developer
+_Alayacare, Montreal/Canada_
+_(Remote) -> Aug-2022 - Present
+
+#### Engineering Manager
 _Fractal Engenharia, Florianópolis/SC/Brazil_
-_(On-site/Remote) -> Jun-2019 - Present_
+_(On-site/Remote) -> Jun-2019 - Jul-2022
 
 #### Data Engineer
 _Fractal Engenharia, Florianópolis/SC/Brazil_
-_(On-site/Remote) -> Apr-2015 - Present_
+_(On-site/Remote) -> Apr-2015 - Jul-2022
 
 #### Web Developer
 _Fractal Engenharia, Florianópolis/SC/Brazil_
-_(On-site/Remote) -> Apr-2017 - Present_
+_(On-site/Remote) -> Apr-2017 - Jul-2022
 
 #### Android Developer
 _Fractal Engenharia, Florianópolis/SC/Brazil_
-_(On-site/Remote) -> Apr-2017 - Present_
+_(On-site/Remote) -> Apr-2017 - Jul-2022
 
 #### Oceanographer
 _Chigago Bridge & Iron, Florianópolis/SC/Brazil_
