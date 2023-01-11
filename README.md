@@ -8,26 +8,26 @@
   Florianópolis/Brazil
 </p>
 
-- 🔭 I’m currently working on a system to compute water reservoir hydraulic balance
+- 🔭 I’m currently working on health care system focused on a data pipeline that exchanges data with external sources.
 - 🌱 I’m currently learning English
-- 👯 I’m looking to collaborate on data engineering project
-- 💬 Ask me about ocean waves, hydroeletric power plant reservoir control, or a new remote job
+- 👯 I’m looking for python software projects, web scraping projects and MT5 trading robots
+- 💬 Ask me about ocean waves, hydroeletric power plant reservoir control, unit tests, clean code practices, or a new remote job
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gustavo-hattenhauer-gomes-62b4b155/)
-- ⚡ Fun fact: I love car race (F1, Nascar, any car race that is on TV ...)
+- ⚡ Fun fact: I love car racing (F1, Nascar, any car racing that is on TV ...)
 
 ## Summary
-Data Engineer, Software Developer and Oceanographer. Currently I work as technology and systems manager, leading a team of 17 people and developing systems to hydrological and meteorological applications. 
+Python Software Developer and Oceanographer. I am currently working as a python software developer, helping Alayacare deliver a great EVV’s solution  (Electronic Visit Verification) for health care companies in USA, Canada and Australia.  
 
-I have 11 years of experience as computer developer. I have experience with web programming, mobile development, Linux administration, relational databases, data analysis, statistics, time series manipulation, matrix and specialized data manipulation, and geoprocessing.
+My activities include delivering enablement features, bug fixes, architecture suggestions, code maintenance, including stored procedure and flask API, unit tests, and PR review applying clean codes best practices.
 
-Good communication, teamwork, problem solving instinct, proactive and determined. My biggest motivation is to encounter complex challenges. Those in which it is necessary to understand the process and know the variables to solve the problem. Nothing is impossible, because for everything there is a way to do it. 
+Good communication, teamwork, problem solving instinct, proactive and determined.
 
-I pass my last seven years working on a hydrological complex project with four core parts: rain data assimilation, numerical modelling, data delivery, and web tools to interpretate and analyse model results. See my work experiences listed below to best understand this project. 
+My biggest motivation is to encounter complex challenges. Those in which it is necessary to understand the process and know the variables to solve the problem. Nothing is impossible, because for everything there is a way to do it.
 
-I'm currently looking for a Data Engineer or Backend position, where I think I'll have my best performance.
+I'm currently looking for a Software Developer position, where I think I'll have my best performance.
 
 ## English Level
-Currently, I am studying on Open English school. It has a course with 8 English levels. Currently I passed level 5, and I'm studying level 6 to get B2 certificate.
+Currently, I am studying on Open English school. It has a course with 8 English levels. Currently I passed level 6, and I'm studying level 7 to get B2 certificate.
 
 - 2022-May: CEFR A2
 - 2022-Sep: CEFR B1
